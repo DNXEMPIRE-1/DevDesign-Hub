@@ -1,5 +1,5 @@
 ## DevDesign-Hub
-![DevDesign-Hub](https://github.com/swapnilsparsh/DevDesign-Hub/blob/v2/public/images/DevDesign-Hub.png)
+![DevDesign-Hub](https://github.com/DNXEMPIRE-1/DevDesign-Hub/blob/v2/public/images/DevDesign-Hub.png)
 
 ## 📌 Introduction
 
@@ -13,17 +13,17 @@ All in one place where you can find all the resources and details of ambassador/
 <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
 <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" /> -->
    <br>
-<img src="https://img.shields.io/github/repo-size/swapnilsparsh/DevDesign-Hub" />
-	<img src="https://img.shields.io/github/issues/swapnilsparsh/DevDesign-Hub" />
-	<img src="https://img.shields.io/github/issues-raw/swapnilsparsh/DevDesign-Hub" />
-	<img src="https://img.shields.io/github/issues-pr/swapnilsparsh/DevDesign-Hub" />
-	<img src="https://img.shields.io/github/issues-closed-raw/swapnilsparsh/DevDesign-Hub" />
-	<img src="https://img.shields.io/github/issues-pr-closed-raw/swapnilsparsh/DevDesign-Hub" />
-	<img src="https://img.shields.io/github/license/swapnilsparsh/DevDesign-Hub" />
-	<img src="https://img.shields.io/github/forks/swapnilsparsh/DevDesign-Hub" />
-	<img src="https://img.shields.io/github/stars/swapnilsparsh/DevDesign-Hub" />
-	<img src="https://img.shields.io/github/contributors/swapnilsparsh/DevDesign-Hub" />
-	<img src="https://img.shields.io/github/last-commit/swapnilsparsh/DevDesign-Hub" />
+<img src="https://img.shields.io/github/repo-size/DNXEMPIRE-1/DevDesign-Hub" />
+	<img src="https://img.shields.io/github/issues/DNXEMPIRE-1/DevDesign-Hub" />
+	<img src="https://img.shields.io/github/issues-raw/DNXEMPIRE-1/DevDesign-Hub" />
+	<img src="https://img.shields.io/github/issues-pr/DNXEMPIRE-1/DevDesign-Hub" />
+	<img src="https://img.shields.io/github/issues-closed-raw/DNXEMPIRE-1/DevDesign-Hub" />
+	<img src="https://img.shields.io/github/issues-pr-closed-raw/DNXEMPIRE-1/DevDesign-Hub" />
+	<img src="https://img.shields.io/github/license/DNXEMPIRE-1/DevDesign-Hub" />
+	<img src="https://img.shields.io/github/forks/DNXEMPIRE-1/DevDesign-Hub" />
+	<img src="https://img.shields.io/github/stars/DNXEMPIRE-1/DevDesign-Hub" />
+	<img src="https://img.shields.io/github/contributors/DNXEMPIRE-1/DevDesign-Hub" />
+	<img src="https://img.shields.io/github/last-commit/DNXEMPIRE-1/DevDesign-Hub" />
 	</div>
 	
 	
@@ -46,7 +46,7 @@ Star and Fork the Repo 🌟 and this will keep us motivated.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/swapnilsparsh/DevDesign-Hub.git
+git clone https://github.com/DNXEMPIRE-1/DevDesign-Hub.git
 ```
 
 2. Change the working directory
@@ -71,7 +71,7 @@ npm run dev
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- Take a look at the Existing [Issues](https://github.com/swapnilsparsh/DevDesign-Hub/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/DNXEMPIRE-1/DevDesign-Hub/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added if necessary.
@@ -83,15 +83,10 @@ npm run dev
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/swapnilsparsh"><img src="https://avatars.githubusercontent.com/u/69387608?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Swapnil Srivastava</h4>
-<a href="https://swapnilsparsh.github.io/"><img src="https://img.icons8.com/fluency/50/000000/link.png" width="32px" height="32px"></a>
+<td align="center"><a href="https://github.com/DNXEMPIRE-1"><img src="https://avatars.githubusercontent.com/u/69387608?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Swapnil Srivastava</h4>
+<a href="https://DNXEMPIRE-1.github.io/"><img src="https://img.icons8.com/fluency/50/000000/link.png" width="32px" height="32px"></a>
 <a href="https://www.linkedin.com/in/swapnil-srivastava-sparsh/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" width="32px" height="32px"></a>
-<a href="https://www.twitter.com/swapnilsparsh/"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="32px" height="32px"></a></td>
-
-<td align="center" ><a href="https://github.com/jatiinyadav"><img src="https://avatars.githubusercontent.com/u/73248007?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Jatin Yadav</h4>
-<a href="https://jatiinyadav.github.io/"><img src="https://img.icons8.com/fluency/50/000000/link.png" width="32px" height="32px"></a>
-<a href="https://www.linkedin.com/in/jatiinyadav/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" width="32px" height="32px"></a>
-<a href="https://www.twitter.com/jatiin_yadav/"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="32px" height="32px"></a></td>
+<a href="https://www.twitter.com/DNXEMPIRE-1/"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="32px" height="32px"></a></td>
 
 </tr>
 </table>
@@ -105,8 +100,8 @@ Thanks goes to these wonderful people
 <table>
 	<tr>
 		<td>
-      <a href="https://github.com/swapnilsparsh/DevDesign-Hub/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=swapnilsparsh/DevDesign-Hub" />
+      <a href="https://github.com/DNXEMPIRE-1/DevDesign-Hub/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=DNXEMPIRE-1/DevDesign-Hub" />
       </a>
 		</td>
 	</tr>
