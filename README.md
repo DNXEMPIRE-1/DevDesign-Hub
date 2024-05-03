@@ -97,13 +97,6 @@ npm run dev
 Thanks goes to these wonderful people
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<table>
-	<tr>
-		<td>
-      
-		</td>
-	</tr>
-</table>
 
 ## Contributing Guidelines
 
@@ -116,10 +109,6 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 ## License
 
 This project follows the [MIT License](/LICENSE).
-
-## Discord
-
-[![Discord Shield](https://discordapp.com/api/guilds/890878491766181909/widget.png?style=shield)](https://discord.com/invite/V4W4Z4sTmh)
 
 
 ## 📃 License
