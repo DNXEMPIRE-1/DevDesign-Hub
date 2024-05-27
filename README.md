@@ -1,5 +1,5 @@
 ## DevDesign-Hub
-![DevDesign-Hub](https://github.com/DNXEMPIRE-1/DevDesign-Hub/public/images/DevDesign-Hub.png)
+![DevDesign-Hub](https://github.com/DNXEMPIRE-1/DevDesign-Hub/blob/main/public/images/DevDesign-Hub.png)
 
 ## 📌 Introduction
 
