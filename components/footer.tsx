@@ -8,32 +8,22 @@ export default function Footer() {
           <p>
             Made with ❤️ by{" "}
             <a
-              href="https://swapnilsparsh.github.io"
+              href="https://linktr.ee/dnxempire"
               target="_blank"
               rel="noreferrer"
               aria-label="Follow Dennis Nzioki on Github"
               className="text-[#00253a]"
             >
               {" "}
-              Swapnil
+              DENNIS NZIOKI DNX
             </a>{" "}
-            &
-            <a
-              href="https://jatinyadav.netlify.app  "
-              target="_blank"
-              rel="noreferrer"
-              aria-label="Follow Jatin Yadav on Github"
-              className="text-[#00253a]"
-            >
-              {" "}
-              Jatin
-            </a>
+            
           </p>
         </span>
         <ul className="flex flex-wrap items-center text-md justify-center text-white">
           <a
             className="hover:underline me-4 md:me-6"
-            href="https://github.com/DNXEMPIRE-1/DevDesign-Hub"
+            href="https://github.com/DNXEMPIRE-1"
             target="_blank"
           >
             <GithubIcon />
@@ -47,7 +37,7 @@ export default function Footer() {
           </a>
           <a
             className="hover:underline me-4 md:me-6"
-            href="https://www.producthunt.com/products/developer-empire"
+            href="https://www.figma.com/@dnxempire"
             target="_blank"
           >
             <ProductHuntIcon />
