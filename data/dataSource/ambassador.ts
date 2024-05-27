@@ -198,7 +198,7 @@ const ForAllData: Data[] = [
   {
     link: "https://medium.com/equilibrium-eosdt/join-the-equilibrium-ambassador-dao-and-earn-eq-5e21911d1134",
     head: "Equilibrium Ambassador DAO",
-    image: "/images/ambassador-img/equilibrium.png",
+    image: "/images/ambassador-img/Equilibrium.png",
     about:
       "DeFi 2.0 with high leverage. One-stop platform to earn, borrow and trade at max efficiency.",
     alt: "Equilibrium Ambassador Image",
