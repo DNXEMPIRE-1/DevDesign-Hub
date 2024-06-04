@@ -29,7 +29,7 @@ All in one place where you can find all the resources and details of ambassador/
 	
 ##  🚀 View Live Demo
 <img src="https://img.shields.io/badge/website-up-greene" />
-<pre><center><a href="https://dev-design-hub.vercel.app//"><b>dev-design-hub.vercel.app/</b></a></center></pre>
+<pre><center><a href="https://devdesignhub.vercel.app/"><b>devdesign hub/</b></a></center></pre>
 
 ## 👨‍💻 Tech Stack
 <a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer">
