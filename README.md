@@ -109,8 +109,3 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 ## License
 
 This project follows the [MIT License](/LICENSE).
-
-
-## 📃 License
-
-This project follows the [MIT License](/LICENSE).
