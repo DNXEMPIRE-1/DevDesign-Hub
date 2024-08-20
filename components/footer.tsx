@@ -8,7 +8,7 @@ export default function Footer() {
           <p>
             Made with ❤️ by{" "}
             <a
-              href="https://linktr.ee/dnxempire"
+              href="https://dennisnzioki.com/"
               target="_blank"
               rel="noreferrer"
               aria-label="Follow Dennis Nzioki on Github"
