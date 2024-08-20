@@ -84,7 +84,7 @@ npm run dev
 <table>
 <tr>
 <td align="center"><a href="https://github.com/DNXEMPIRE-1"><img src="https://avatars.githubusercontent.com/u/89406534?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Dennis Nzioki</h4>
-<a href=""><img src="https://img.icons8.com/fluency/50/000000/link.png" width="32px" height="32px"></a>
+<a href="https://dennisnzioki.com/"><img src="https://img.icons8.com/fluency/50/000000/link.png" width="32px" height="32px"></a>
 <a href="https://www.linkedin.com/in/dennisnzioki/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" width="32px" height="32px"></a>
 <a href="https://www.twitter.com/dnx_empire/"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="32px" height="32px"></a></td>
 
